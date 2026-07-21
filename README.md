@@ -145,33 +145,6 @@ Projetos práticos:
 
 ---
 
-# Estrutura do Projeto
-
-```text
-.
-├── Scripts
-│   ├── Criação
-│   ├── Manipulação
-│   ├── Consultas
-│   ├── JOIN
-│   ├── OUTER JOIN
-│   ├── Subconsultas
-│   ├── Operadores de Conjunto
-│   └── Projetos
-│
-├── Documentação
-│
-├── Exercícios
-│
-└── README.md
-```
-
----
-
-# Banco de Dados Utilizado
-
-- PostgreSQL
-
 ---
 
 # Ferramentas
